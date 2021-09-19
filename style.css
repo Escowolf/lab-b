@@ -1,5 +1,8 @@
-header li {
-    text-decoration: none;
+header {
     background-color: bisque;
-    padding: 20%;
+    text-align: center;
+}
+
+li {
+    list-style: none;
 }
