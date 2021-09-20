@@ -1,5 +1,4 @@
 header {
-    background-color: bisque;
     text-align: center;
 }
 
@@ -10,4 +9,9 @@ iframe {
 
 li {
     list-style: none;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top: 50%;
 }
